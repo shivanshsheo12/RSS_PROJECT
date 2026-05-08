@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/shivansh/arduinobot/install/arduinobot_msgs/include/**",
+        "/home/shivansh/arduinobot/install/arduinobot_controller/include/**",
+        "/home/shivansh/ros2_actions/install/my_robot_interfaces/include/**",
+        "/home/shivansh/arduinobot_practice/install/arduinobot_interfaces/include/**",
+        "/home/shivansh/arduinobot_ws/install/arduinobot_msgs/include/**",
+        "/home/shivansh/arduinobot_ws/install/arduinobot_controller/include/**",
+        "/home/shivansh/ros2_ws3/install/my_robot_interfaces/include/**",
+        "/home/shivansh/ros2_action_challenge/install/my_robot_interface/include/**",
+        "/home/shivansh/shivu_ws/install/my_robot_interfaces/include/**",
+        "/home/shivansh/ros_ws/install/my_interfaces/include/**",
+        "/home/shivansh/ros_ws/install/battery_led_interface/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/shivansh/arduinobot/src/arduinobot_controller/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
